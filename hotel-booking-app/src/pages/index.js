@@ -1,4 +1,11 @@
 export { default as TopNav } from "./Components/TopNav";
+export { default as RegisterForm } from "./Components/RegisterForm";
+export { default as LoginForm } from "./Components/LoginForm";
 export { default as Home } from "./booking/Home";
 export { default as Login } from "./auth/Login";
 export { default as Register } from "./auth/Register";
+export { default as Dashboard } from "./user/Dashboard";
+export { default as DashboardNav } from "./Components/DashboardNav";
+export { default as DashboardSeller } from "./user/DashboardSeller";
+export { default as ConnectNav } from "./Components/ConnectNav";
+export { default as NewHotels } from "./hotels/NewHotels";
